@@ -5,12 +5,12 @@
 # @author: xyz
 '''
 from random import randint
-i = randint(1,6)
-if i==1:
+i = randint(1, 6)
+if i == 1:
     print('sing')
-elif i==2:
+elif i == 2:
     print('dance')
-elif i== 3:
+elif i == 3:
     print('rap')
 elif i == 4:
     print('cai')
